@@ -14,7 +14,7 @@ body{
 }
 #clock{
     font-family: monospace;
-    font-size: 90%;
+    font-size: 6vh;
     font-weight: bold;
     text-align: center;
     color: white;
